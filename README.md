@@ -1,8 +1,8 @@
-- 👋 Hi, I’m VEsT*
-- 👀 I’m interested in Virus and Kali Linux 
-- 🌱 I’m currently learning Kali Linux
-- 💞️ I’m looking to collaborate on ... Bune AQ
-- 📫 How to reach me ... Discord: VEsT* < ‡'あઇ#6763
+- 👋 Hi, montre
+- 👀 I’m interested in Linux, JS
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... 
 
 <!---
 disbotdevel/disbotdevel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
